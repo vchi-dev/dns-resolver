@@ -1,4 +1,4 @@
-### dns-resolver
+## dns-resolver
 Using dnspython, a toolkit for Python to resolve DNS queries.
 
 1. To run, clone this repository and go into that directory.
